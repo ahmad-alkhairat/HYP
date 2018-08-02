@@ -1,4 +1,4 @@
-# Categorisation of a Page Text
+# Categorization of a Page Text
 
 This project takes the URL of a specific page and gives percentages of how much this the included text is relative to the 20 categories already chosen.
 
