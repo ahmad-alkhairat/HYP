@@ -71,17 +71,19 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Ahmad Alkairat ** - *Data Scientest* - [PurpleBooth](https://github.com/PurpleBooth)
+**Ahmad Alkairat ** - *Data Scientest and AI developer* - [Linkedin](https://www.linkedin.com/in/ahmad-alkhairat-36736b121/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under [KAFEIN](http://www.kafein.com.tr/) License 
 
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
 
